@@ -1,0 +1,16 @@
+Id,name,Education,salary,age,gender,rent
+1,raja,pg,2000,25,male,123
+2,teja,ug,,30,female,200
+3,goga,phd,1500,25,male,126
+4,ramlal,ug ,1000,37,male,198
+5,sammer,phd,5000,47,male,
+6,a,ug,2500,52,female,156
+7,b,ug,,13,person,123
+8,c,phd,2300,23,male,100
+9,d,pg,1503,,female,90
+10,e,pg,1830,,male,180
+11,f,pg,1900,39,female,
+12,goga,ug,2400,,person,120
+13,i,phd,2900,28,male,163
+14,h,phd,1300,29,person,178
+15,k,ug,1700,38,male,125
